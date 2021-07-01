@@ -1,0 +1,71 @@
+.label {
+    -fx-font-size: 11px;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+}
+.label_opacity{
+    -fx-font-size: 10px;
+    -fx-opacity: 0.7;
+    -fx-font-family: "Arial Black";
+}
+
+.background_box {
+    -fx-background-radius: 5px;
+    -fx-background-color: #5cb6d0;
+}
+
+.background {
+    -fx-background-color: #343434;
+}
+
+.box {
+    -fx-background-color: #4d8190;
+    -fx-background-radius: 5px;
+}
+
+.button_background {
+    -fx-background-color: #4d8190;
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+}
+
+/*chart*/
+.chart-horizontal-grid-lines {
+    -fx-stroke: white;
+    -fx-stroke-width: 1;
+}
+
+.chart-plot-background {
+    -fx-background-color: transparent;
+}
+
+.chart-legend {
+    -fx-background-color: transparent;
+}
+
+.chart-legend-item-symbol {
+    -fx-background-radius: 0;
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: transparent;
+}
+
+.chart {
+    -fx-background-radius: 10px;
+    -fx-background-color: #5cb6d0;
+}
+
+.prix_text {
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial Black";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.information_text {
+    -fx-font-size: 12px;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+}

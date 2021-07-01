@@ -1,0 +1,1 @@
+'sudo' java -Dfile.encoding=UTF-8 -jar App-Fx.jar
